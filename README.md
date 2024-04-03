@@ -3,7 +3,7 @@
 Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
 
 # Basic
-- Linear Regression
+- [Linear Regression](/1_basics/1_linear_regression.md)
 - Gradient Descent
 - Logistic Regression
 - Glossary
